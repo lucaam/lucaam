@@ -4,6 +4,8 @@
 **lucaam/lucaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+![](https://komarev.com/ghpvc/?username=lucaam)
+
 
 - 🔭 I’m currently working on VNFs and Orchestration @ [Ericsson](https://github.com/Ericsson)
 - 🌱 I’m currently learning how to integrate video surveillance with deep learning to secure home ([AlarmPI](https://github.com/bkbilly/AlarmPI) - [Yolov5](https://github.com/ultralytics/yolov5) - [Hikvision](https://www.hikvision.com/) - [Raspberry](https://www.raspberrypi.org/) - [Python scripts](https://www.python.org/)
