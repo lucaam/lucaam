@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=lucaam)
 
 
-- 🔭 I’m currently working on VNFs and Orchestration @ [Ericsson](https://github.com/Ericsson)
-- 🌱 I’m currently learning how to integrate video surveillance with deep learning to secure home ([AlarmPI](https://github.com/bkbilly/AlarmPI) - [Yolov5](https://github.com/ultralytics/yolov5) - [Hikvision](https://www.hikvision.com/) - [Raspberry](https://www.raspberrypi.org/) - [Python scripts](https://www.python.org/)
+- 🔭 I’m currently working on CI stuff in Automotive @ [Luxoft](https://github.com/Luxoft)
+- 🌱 I’m currently digging flashing [QNAP 301w](https://www.qnap.com/en/product/qhora-301w/specs/hardware/QHora-301W.pdf) with [OpenWrt](https://github.com/openwrt/) and get the potential from that router!
 - 👯 I’m collaborating on [Birra Amore](https://github.com/lucaam/amorebirra) with [@imgios](https://github.com/imgios)
 - 📫 How to reach me: [Telegram](https://t.me/lucaam) - [Email](mailto:luca.amoriello@hotmail.it) - [Instagram](https://instagram.com/lucaamoriello)
 <!--
